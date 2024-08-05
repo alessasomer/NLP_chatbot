@@ -77,8 +77,6 @@ Dialogue systems can be decomposed into four primary modules ([Norvig 1991](http
 3. Transform the input into a response – users normally expect a response in the given domain.
 4. Print the response.
 
-In `repl.py` we have implemented 1 and 4 for you. In `chatbot.py` you'll implement 2 and 3. 
-
 ## Getting started
 
 To get started: 
